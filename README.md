@@ -1,6 +1,6 @@
 # c-snippets as Co-Pilot
 
-A practical macros for create generic and readable programs.
+Practical helpful macros for creating generic and readable programs.
 
 ## Bugs and Issues
 
